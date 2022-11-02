@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.hzh.pinda.swagger2.SwaggerAutoConfiguration
